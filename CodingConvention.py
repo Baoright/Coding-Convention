@@ -1,4 +1,4 @@
-def    calc(a, b): # Tên hàm không mô tả rõ chức năng và thụt lề sai cách
+def calc(a, b): # Tên hàm không mô tả rõ chức năng và thụt lề sai cách
     # Tính tổng của hai số
     c=a+b # Không có khoảng trắng khiến code khó đọc và tên biến không rõ ràng
     return
