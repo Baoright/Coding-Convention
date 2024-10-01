@@ -2,7 +2,7 @@ def calc(a, b): # Tên hàm không mô tả rõ chức năng và thụt lề sai
     # Tính tổng của hai số
     c=a+b # Không có khoảng trắng khiến code khó đọc và tên biến không rõ ràng
     return
-    c; # Kết thúc bằng dấu chấm phẩy không cần thiết
+    c 
 
 
 def CALCULATEtotalprice(itemlist): # Tên hàm không tuân theo quy tắc đặt tên thống nhất
