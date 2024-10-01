@@ -1,12 +1,11 @@
-def    calc(a, b): # Tên hàm không mô tả rõ chức năng và thụt lề sai cách
+ def calculate_sum(first_number, second_number):
     # Tính tổng của hai số
-    c = a + b # Tên biến không rõ ràng
-    return
-    c
+    total_sum = first_number + second_number
+    return total_sum
 
+def calculate_total_price(item_list):
+    total_price = 0
+    for item in item_list:
+        total_price += item.price
+    return total_price
 
-def CALCULATEtotalprice(itemlist): # Tên hàm không tuân theo quy tắc đặt tên thống nhất
-    total = 0
-    for i in itemlist:
-        total += i.price
-    return total
