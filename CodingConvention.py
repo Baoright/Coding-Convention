@@ -1,4 +1,5 @@
- def calculate_sum(first_number, second_number):
+
+def calculate_sum(first_number, second_number):
     # Tính tổng của hai số
     total_sum = first_number + second_number
     return total_sum
