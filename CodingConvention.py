@@ -1,5 +1,5 @@
 def    calc(a, b): # Tên hàm không mô tả rõ chức năng và thụt lề sai cách
-    # Tính tổng => Không mô tả rõ ràng chức năng cụ thể của mã bên dưới
+    # Tính tổng của hai số
     c=a+b # Không có khoảng trắng khiến code khó đọc và tên biến không rõ ràng
     return
     c; # Kết thúc bằng dấu chấm phẩy không cần thiết
